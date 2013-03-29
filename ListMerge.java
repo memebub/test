@@ -1,6 +1,5 @@
-
 /**
- * Write a description of class ListMerge here.
+ * Write a description of class ListMerge here. //This is my comment.
  * 
  * @author (your name) 
  * @version (a version number or a date)
